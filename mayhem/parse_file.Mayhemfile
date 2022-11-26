@@ -1,0 +1,6 @@
+image: tngo04/syn:latest
+project: tngo04/syn
+target: parse_file
+
+cmds:
+  - cmd: /parse_file

@@ -1,0 +1,6 @@
+image: tngo04/syn:latest
+project: tngo04/syn
+target: create_token_buffer
+
+cmds:
+  - cmd: /create_token_buffer
